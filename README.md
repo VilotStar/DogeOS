@@ -1,4 +1,4 @@
 # DogeOS
 An OS I'm building from scratch (EFIU)
 
-[Test](Kernel/Makefile)
+[Test](kernel/Makefile)
